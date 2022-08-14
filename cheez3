@@ -1,4 +1,5 @@
-while bananas == true do
+if comf12 == true then
+while comf12 == true do
     task.wait(.1) 
 	if fireclickdetector then
 		for i,v in pairs(workspace:GetDescendants()) do
@@ -19,3 +20,4 @@ while bananas == true do
 		end
 	end
 end 
+end
