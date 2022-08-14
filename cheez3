@@ -1,4 +1,3 @@
-if bananas == true then
 while bananas == true do
     task.wait(.1) 
 	if fireclickdetector then
@@ -20,9 +19,3 @@ while bananas == true do
 		end
 	end
 end 
-
-else
-
-print("jackass")
-
-end
